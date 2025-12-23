@@ -29,7 +29,3 @@ I am a Full Stack Developer.
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=busraauz&theme=vision-friendly-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
